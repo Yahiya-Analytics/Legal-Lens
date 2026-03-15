@@ -67,18 +67,6 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 📁 Project Structure
-
-```
-Legal-Lens/
-├── app.py               # Main Streamlit application
-├── requirements.txt     # Python dependencies
-├── .env.example         # Environment variable template
-└── README.md
-```
-
----
-
 ## 🎯 Example Use Cases
 
 - **Freelancers** reviewing client contracts before signing
